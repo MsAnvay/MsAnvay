@@ -1,0 +1,16 @@
+{
+  "companyID": 0,
+  "cityID": 0,
+  "city": "string",
+  "stateID": 0,
+  "countryID": 0,
+  "isActive": "Y",
+  "createLoginID": 0,
+  "createDate": "2023-07-28T12:46:23.025Z",
+  "updateLoginID": 0,
+  "updateDate": "2023-07-28T12:46:23.025Z",
+  "state": "string",
+  "country": "string",
+  "userName": "string",
+  "status": "string"
+}
